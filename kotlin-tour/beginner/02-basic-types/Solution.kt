@@ -1,26 +1,11 @@
 fun main() {
-    // 標準入力から整数 a を読み取る
-    // TODO: ここにコードを書いてください
+    val a = readln().toInt()
+    val b = readln().toInt()
 
-    // 標準入力から整数 b を読み取る
-    // TODO: ここにコードを書いてください
-
-    // 各算術演算の結果を出力
-    // "a + b = [結果]"
-    // TODO: ここにコードを書いてください
-
-    // "a - b = [結果]"
-    // TODO: ここにコードを書いてください
-
-    // "a * b = [結果]"
-    // TODO: ここにコードを書いてください
-
-    // "a / b = [結果]" （整数除算）
-    // TODO: ここにコードを書いてください
-
-    // "a % b = [結果]"
-    // TODO: ここにコードを書いてください
-
-    // "a.toDouble() / b = [結果]" （浮動小数点除算）
-    // TODO: ここにコードを書いてください
+    println("a + b = ${a + b}")
+    println("a - b = ${a - b}")
+    println("a * b = ${a * b}")
+    println("a / b = ${a / b}")
+    println("a % b = ${a % b}")
+    println("a.toDouble() / b = ${a.toDouble() / b}")
 }

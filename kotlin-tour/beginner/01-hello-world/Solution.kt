@@ -1,17 +1,8 @@
 fun main() {
-    // 標準入力から名前を読み取る（val を使用）
-    // TODO: ここにコードを書いてください
+    val name: String = readln()
+    var age: Int = readln().toInt()
 
-    // 標準入力から年齢を読み取る（Int に変換）
-    // TODO: ここにコードを書いてください
-
-    // 文字列テンプレートを使って出力
-    // 1行目: "Hello, [名前]!"
-    // TODO: ここにコードを書いてください
-
-    // 2行目: "You are [年齢] years old."
-    // TODO: ここにコードを書いてください
-
-    // 3行目: "Next year, you will be [年齢+1] years old."
-    // TODO: ここにコードを書いてください
+    println("Hello, $name!")
+    println("You are $age years old.")
+    println("Next year, you will be ${age + 1}")
 }
