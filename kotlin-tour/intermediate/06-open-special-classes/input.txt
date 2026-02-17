@@ -1,0 +1,6 @@
+5
+MOVE 10 20
+DRAW circle RED
+MOVE 30 40
+DRAW rectangle BLUE
+STOP

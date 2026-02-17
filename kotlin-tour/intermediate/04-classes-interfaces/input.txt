@@ -1,0 +1,4 @@
+3
+circle 5.0
+rectangle 4.0 6.0
+circle 3.0

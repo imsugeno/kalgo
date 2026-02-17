@@ -1,0 +1,6 @@
+5
+Alice 85 Math
+null 90 Science
+Bob null History
+Charlie 75 null
+null null null

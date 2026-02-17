@@ -1,0 +1,4 @@
+3
+set temperature 25.5
+set temperature 30.0
+set temperature -5.0

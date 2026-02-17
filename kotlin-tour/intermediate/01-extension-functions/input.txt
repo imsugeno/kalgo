@@ -1,0 +1,6 @@
+5
+words Hello World
+words Kotlin is awesome
+palindrome racecar
+palindrome hello
+factorial 5
